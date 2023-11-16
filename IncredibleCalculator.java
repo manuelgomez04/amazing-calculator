@@ -69,7 +69,7 @@ public class IncredibleCalculator {
 
                  System.out.println ("El resultado de la division es"+ division);
                     break;
-           /* case 5: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
+            case 5: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
                 System.out.println ("Diga número 1");
                 aux=sc.nextLine();
                 num3= Double.parseDouble(aux);
@@ -116,7 +116,7 @@ public class IncredibleCalculator {
             System.err.println("Lo que has introducido no es un número entero!");
             System.exit(1);
             return -1;
-        }*/
+        }
 
     } 
 
