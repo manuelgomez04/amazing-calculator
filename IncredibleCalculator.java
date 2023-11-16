@@ -57,7 +57,7 @@ public class IncredibleCalculator {
 
                 System.out.println ("El resultado del producto es "+ produc);
                     break;
-           /* case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
+            case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
                 System.out.println ("Diga número 1");
                 aux=sc.nextLine();
                 num1= Integer.parseInt(aux);
@@ -69,7 +69,7 @@ public class IncredibleCalculator {
 
                  System.out.println ("El resultado de la division es"+ division);
                     break;
-            case 5: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
+           /* case 5: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
                 System.out.println ("Diga número 1");
                 aux=sc.nextLine();
                 num3= Double.parseDouble(aux);
