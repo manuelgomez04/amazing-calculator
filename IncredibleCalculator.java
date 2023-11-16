@@ -44,7 +44,7 @@ public class IncredibleCalculator {
 
                 System.out.println ("El resultado de la suma es"+ resta);
                     break;
-           /* case 3: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su producto.
+            case 3: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su producto.
 
                 System.out.println ("Diga número 1");
                 aux=sc.nextLine();
@@ -57,7 +57,7 @@ public class IncredibleCalculator {
 
                 System.out.println ("El resultado del producto es "+ produc);
                     break;
-            case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
+           /* case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
                 System.out.println ("Diga número 1");
                 aux=sc.nextLine();
                 num1= Integer.parseInt(aux);
